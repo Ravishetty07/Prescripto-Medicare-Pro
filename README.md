@@ -6,7 +6,7 @@
 
 ## 🖼️ Project Preview
 
-![Preview](./assets/preview.png) <!-- Replace with actual preview image -->
+![Preview](./frontend/public/image.png) <!-- Replace with actual preview image -->
 
 ---
 
